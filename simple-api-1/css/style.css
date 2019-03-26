@@ -1,0 +1,21 @@
+body {
+  background:#FBE7FB;
+  padding:20px;
+  font-size: 20px;
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+.section_heading {
+  color: #0a0a0a;
+}
+
+#quote_box {
+  color:gray;
+  padding:20px;
+}
+button {
+  background: linear-gradient(#FBE7FB, #C4DEEE);
+  color:black;
+  padding:20px;
+  border: solid 1px gray;
+}
